@@ -33,6 +33,6 @@ Folder `p03` di repository `pt-NPM` berisi `sinilai_v02.cpp` dan  `README.md`. L
 
 ## Deklarasi AI
 
-Tuliskan AI yang digunakan, prompt, dan umpan balik AI
 Alat : Gemini
 untuk apa : membantu melengkapi kode TODO pada file 'p03/sinilai_v02.cpp'
+cara memeriksanya: memeriksa program menggunakan file 'contoh_masukan.txt'' melalui pengujian './sinilai_v02 <contoh_masukan.txt' dan memastikan output menunjukkan 'nilai akhir : 83.975' serta 'Rerata polos : 85.875'.

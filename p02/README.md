@@ -42,4 +42,4 @@ Folder `p02` di repository `pt-NPM` berisi `sinilai_v01.cpp`, dan  `README.md`. 
 
 AI yang digunakan : gemini
 prompt   : minta tolong contohkan cara pengerjaannya, dan minta penjelasan penyebab error
-umpan balik : panduan dan contoh cara mengerjakan, menjelaskan letak penyebab errornya
+umpan balik : panduan dan contoh cara mengerjakan,  menjelaskan letak penyebab errornya
