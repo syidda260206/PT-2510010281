@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a, b;
+    cout << "Masukkan bilangan pertama: ";
+    cin >> a;
+    cout << "Masukkan bilangan kedua: ";
+    cin >> b;
+
+    int hasil_bagi = a / b;
+    int sisa = a % b;
+
+    cout << a << " dibagi " << b << " adalah " 
+         << hasil_bagi << " sisa " << sisa << endl;
+
+    return 0;
+}
